@@ -1,0 +1,21 @@
+Candidate_ID,Job,Weighted_Match_Score,Education,Experience_Years,Python,SQL,Excel,Power_BI,Tableau,Machine_Learning,Statistics,Communication,Problem_Solving,Projects,Certifications
+C001,Data Scientists,80.0,BE,0,1,1,1,1,0,0,1,1,1,2,1
+C001,Business Intelligence Analysts,80.0,BE,0,1,1,1,1,0,0,1,1,1,2,1
+C001,Software Developers,100.0,BE,0,1,1,1,1,0,0,1,1,1,2,1
+C001,Computer Systems Analysts,100.0,BE,0,1,1,1,1,0,0,1,1,1,2,1
+C002,Data Scientists,80.0,BE,1,1,1,1,0,1,1,1,1,1,4,2
+C002,Business Intelligence Analysts,80.0,BE,1,1,1,1,0,1,1,1,1,1,4,2
+C002,Software Developers,100.0,BE,1,1,1,1,0,1,1,1,1,1,4,2
+C002,Computer Systems Analysts,75.0,BE,1,1,1,1,0,1,1,1,1,1,4,2
+C003,Data Scientists,60.0,BSc,0,0,1,1,1,0,0,1,0,1,1,0
+C003,Business Intelligence Analysts,60.0,BSc,0,0,1,1,1,0,0,1,0,1,1,0
+C003,Software Developers,50.0,BSc,0,0,1,1,1,0,0,1,0,1,1,0
+C003,Computer Systems Analysts,75.0,BSc,0,0,1,1,1,0,0,1,0,1,1,0
+C004,Data Scientists,80.0,BE,2,1,0,1,1,1,1,0,1,1,5,2
+C004,Business Intelligence Analysts,80.0,BE,2,1,0,1,1,1,1,0,1,1,5,2
+C004,Software Developers,50.0,BE,2,1,0,1,1,1,1,0,1,1,5,2
+C004,Computer Systems Analysts,75.0,BE,2,1,0,1,1,1,1,0,1,1,5,2
+C005,Data Scientists,60.0,MCA,1,1,1,0,0,1,1,1,1,0,3,1
+C005,Business Intelligence Analysts,60.0,MCA,1,1,1,0,0,1,1,1,1,0,3,1
+C005,Software Developers,100.0,MCA,1,1,1,0,0,1,1,1,1,0,3,1
+C005,Computer Systems Analysts,50.0,MCA,1,1,1,0,0,1,1,1,1,0,3,1

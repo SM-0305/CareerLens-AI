@@ -1,0 +1,6 @@
+Candidate_ID,Education,Experience_Years,Python,SQL,Excel,Power_BI,Tableau,Machine_Learning,Statistics,Communication,Problem_Solving,Projects,Certifications
+C001,BE,0,1,1,1,1,0,0,1,1,1,2,1
+C002,BE,1,1,1,1,0,1,1,1,1,1,4,2
+C003,BSc,0,0,1,1,1,0,0,1,0,1,1,0
+C004,BE,2,1,0,1,1,1,1,0,1,1,5,2
+C005,MCA,1,1,1,0,0,1,1,1,1,0,3,1

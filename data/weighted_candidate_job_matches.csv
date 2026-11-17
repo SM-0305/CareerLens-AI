@@ -1,0 +1,21 @@
+Candidate_ID,Job,Weighted_Match_Score
+C001,Data Scientists,80.0
+C001,Business Intelligence Analysts,80.0
+C001,Software Developers,100.0
+C001,Computer Systems Analysts,100.0
+C002,Data Scientists,80.0
+C002,Business Intelligence Analysts,80.0
+C002,Software Developers,100.0
+C002,Computer Systems Analysts,75.0
+C003,Data Scientists,60.0
+C003,Business Intelligence Analysts,60.0
+C003,Software Developers,50.0
+C003,Computer Systems Analysts,75.0
+C004,Data Scientists,80.0
+C004,Business Intelligence Analysts,80.0
+C004,Software Developers,50.0
+C004,Computer Systems Analysts,75.0
+C005,Data Scientists,60.0
+C005,Business Intelligence Analysts,60.0
+C005,Software Developers,100.0
+C005,Computer Systems Analysts,50.0
