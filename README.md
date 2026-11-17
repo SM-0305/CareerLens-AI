@@ -2,9 +2,11 @@
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
-[![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red.svg)](https://streamlit.io/)
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-careerlens--ai.streamlit.app-red?logo=streamlit)](https://careerlens-ai.streamlit.app)
 [![O*NET Data](https://img.shields.io/badge/Dataset-O*NET%2028.0-green.svg)](https://www.onetonline.org/)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
+
+🌐 **Live Application URL:** [https://careerlens-ai.streamlit.app](https://careerlens-ai.streamlit.app)
 
 **CareerLens AI** is an intelligent, end-to-end Machine Learning career recommendation and skill-gap diagnostic platform. Powered by official **O\*NET Occupational Intelligence (1,016 standard occupations and 8,778 recognized industry skills)**, CareerLens AI analyzes a user's technical and transferable abilities, recommends the highest-matching career pathways, calculates precise skill gaps, and generates prioritized, personalized learning roadmaps.
 
